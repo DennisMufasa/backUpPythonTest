@@ -1,6 +1,6 @@
 import re
 
-
+# a program that checks passwords for A-Z a-z 0-9 #$@.
 def passCheck(*args):
     if len(args) > 1 and len(args) != 0:
         newArgs = []
@@ -23,8 +23,6 @@ def passCheck(*args):
                     if re.search(r'[0-9]', password):   # checking for numerals
                         if re.search(r'[$#@]', password):  # checking for special characters
                             return password
-
-
 
 
 
