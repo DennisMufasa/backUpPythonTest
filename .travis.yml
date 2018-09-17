@@ -9,8 +9,9 @@ before_script:
    - pip install -r requirements.txt
 
 script:
-   - python TestPassChecker.py
-   - python TestLongerString.py
+   - coverage run TestPassChecker.py
+   - coverage run TestLongerString.py
 
 after_success:
    - coveralls
+   - coverge report
