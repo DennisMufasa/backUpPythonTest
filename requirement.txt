@@ -1,0 +1,12 @@
+Flask
+pytest
+unittest
+markdown
+Markdown
+flask-restful
+uwsgi
+werkzeug
+gunicorn
+codecov
+coverage
+coveralls
