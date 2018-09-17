@@ -1,7 +1,7 @@
 # Simple unittest 
 <br>
 
-[![Build Status](https://travis-ci.org/DennisMufasa/backUpPythonTest.svg?branch=master)](https://travis-ci.org/DennisMufasa/backUpPythonTest) [![Coverage Status](https://coveralls.io/repos/github/DennisMufasa/backUpPythonTest/badge.svg?branch=master)](https://coveralls.io/github/DennisMufasa/backUpPythonTest?branch=master)
+[![Build Status](https://travis-ci.org/DennisMufasa/backUpPythonTest.svg?branch=master)](https://travis-ci.org/DennisMufasa/backUpPythonTest) [![Coverage Status](https://coveralls.io/repos/github/DennisMufasa/backUpPythonTest/badge.svg?branch=master)](https://coveralls.io/github/DennisMufasa/backUpPythonTest?branch=master)  [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
 <br>
 <h2>This back up contains:</h2>
