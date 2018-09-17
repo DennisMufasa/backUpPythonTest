@@ -1,6 +1,5 @@
 Flask
 pytest
-unittest
 markdown
 Markdown
 flask-restful
