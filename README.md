@@ -1,6 +1,8 @@
 # Simple unittest 
 <br>
-[![Build Status](https://travis-ci.com/DennisMufasa/backUpPythonTest.svg?branch=master)](https://travis-ci.com/DennisMufasa/backUpPythonTest)
+
+[![Build Status](https://travis-ci.org/DennisMufasa/backUpPythonTest.svg?branch=master)](https://travis-ci.org/DennisMufasa/backUpPythonTest)
+
 <br>
 <h2>This back up contains:</h2>
 <ol>
